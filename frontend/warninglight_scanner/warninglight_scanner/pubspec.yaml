@@ -1,0 +1,22 @@
+name: warninglight_scanner
+description: A Flutter application for uploading images and displaying prediction results.
+publish_to: 'none' 
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.0.0
+  image_picker: ^0.8.4+4
+  http: ^0.13.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

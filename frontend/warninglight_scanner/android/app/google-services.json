@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147666423501",
+    "project_id": "dashboard-scanner",
+    "storage_bucket": "dashboard-scanner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147666423501:android:87a6317345beac550ae384",
+        "android_client_info": {
+          "package_name": "com.warninglight_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNiNnFa1-reIYiFkIqYgJrmGULLwNvdQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
